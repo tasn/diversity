@@ -40,7 +40,7 @@ This section describes some simple ways your project and community design can be
 - [ ] We have a welcoming and open channel for community particpiation.
 - [ ] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate, and make underrepresented people feel excluded.
 - [ ] We strive to encourage and recognizes the quietest voices, and not just those with the most confidence, and volume.
-- [ ] We recognize that the the [primary language of the project may not be the first language of all contributors](https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html), and where possible provide transcripts of meetings and other key project correspondence are easily found.
+- [ ] We recognize that the [primary language of the project may not be the first language of all contributors](https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html), and where possible provide transcripts of meetings and other key project correspondence are easily found.
 - [ ] We have provided a way for everyone to share their pronouns, and respect those in our conversations and communication.
 
 ### Documentation
